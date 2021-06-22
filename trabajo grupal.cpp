@@ -23,6 +23,22 @@ c1=c1+1;
 while(c1<10);
 cout<<"\n";
   c=0;
+
+
+//Zambrano Zambrano Arely Tatiana
+ //resta de la matriz1 y matriz2 
+ 
+  cout<<"la matriz resta es:"<<endl<<"resta[10]=";
+ do{
+ cout<<matriz1[c]-matriz2[c];
+ c=c+1;
+ if(c<10){
+    cout<<"  - ";
+ }
+     
+ }while(c<10);
+ cout<<endl;
+ c=0;
 //Andrea Palacios Becerra
 //división de la matriz1 para la matriz2
  
