@@ -25,3 +25,20 @@ cout<<"\n";
   c=0;
 return 0;
 }
+
+
+
+//Zambrano Zambrano Arely Tatiana
+ //resta de la matriz1 y matriz2 
+ 
+  cout<<"la matriz resta es:"<<endl<<"resta[10]=";
+ do{
+ cout<<matriz1[c]-matriz2[c];
+ c=c+1;
+ if(c<10){
+    cout<<"  - ";
+ }
+     
+ }while(c<10);
+ cout<<endl;
+ c=0;
