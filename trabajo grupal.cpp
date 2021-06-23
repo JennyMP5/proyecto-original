@@ -40,6 +40,21 @@ cout<<"\n";
  }while(c<10);
  cout<<endl;
  c=0;
+  //Jenniffer Katherine Mina Preciado 
+ //El compañero que le toco esta parte no se presento, ni mando mensajes con respecto al tema.
+ //producto de la matriz1 y matriz2 
+ 
+  cout<<"la matriz producto es:"<<endl<<"producto[10]=";
+ do{
+ cout<<matriz1[c]*matriz2[c];
+ c=c+1;
+ if(c<10){
+    cout<<" - ";
+ }
+     
+ }while(c<10);
+ cout<<endl;
+ c=0;
 //Andrea Palacios Becerra
 //división de la matriz1 para la matriz2
  
